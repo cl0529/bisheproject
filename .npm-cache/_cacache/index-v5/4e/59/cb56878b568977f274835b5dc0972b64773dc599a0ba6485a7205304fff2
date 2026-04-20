@@ -1,0 +1,2 @@
+
+80abea9683ce313f95f0252148bdc1bc7cd3d16f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/read-pkg/download/read-pkg-5.2.0.tgz","integrity":null,"time":1776169504869,"size":"262","metadata":{"time":1776169504869,"url":"https://registry.npm.taobao.org/read-pkg/download/read-pkg-5.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 14 Apr 2026 12:25:05 GMT","location":"https://registry.npmmirror.com/read-pkg/download/read-pkg-5.2.0.tgz"},"options":{"compress":true},"status":301}}

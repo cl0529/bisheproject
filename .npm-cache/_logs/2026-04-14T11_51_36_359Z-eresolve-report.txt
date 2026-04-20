@@ -1,0 +1,18 @@
+'Log files:
+F:\springboot河南非遗助推平台\.npm-cache\_logs\2026-04-14T11_51_36_359Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: client_home@0.1.0
+Found: vue@3.5.32
+node_modules/vue
+  vue@"^3.2.40" from the root project
+
+Could not resolve dependency:
+peer vue@"^2.5.17" from element-ui@2.15.14
+node_modules/element-ui
+  element-ui@"^2.15.0" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.

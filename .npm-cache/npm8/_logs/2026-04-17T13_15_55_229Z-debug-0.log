@@ -1,0 +1,188 @@
+0 verbose cli d:\cursor\resources\app\resources\helpers\node.exe F:\springboot河南非遗助推平台\.npm-cache\npm8\_npx\cfeb70dcfc58a00c\node_modules\npm\bin\npm-cli.js
+1 info using npm@8.19.4
+2 info using node@v22.22.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:F:\springboot河南非遗助推平台\.npm-cache\npm8\_npx\cfeb70dcfc58a00c\node_modules\npm\npmrc Completed in 2ms
+6 timing config:load:builtin Completed in 2ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:F:\springboot河南非遗助推平台\project\src\main\resources\static\home\.npmrc Completed in 0ms
+10 timing config:load:project Completed in 5ms
+11 timing config:load:file:C:\Users\Administrator\.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:C:\Program Files\nodejs\node_global\etc\npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 0ms
+18 timing config:load Completed in 14ms
+19 timing npm:load:configload Completed in 14ms
+20 timing npm:load:mkdirpcache Completed in 1ms
+21 timing npm:load:mkdirplogs Completed in 0ms
+22 verbose title npm install jsencrypt vue-json-excel
+23 verbose argv "install" "jsencrypt" "vue-json-excel" "--legacy-peer-deps" "--ignore-scripts" "--no-audit" "--no-fund"
+24 timing npm:load:setTitle Completed in 1ms
+25 timing config:load:flatten Completed in 1ms
+26 timing npm:load:display Completed in 2ms
+27 verbose logfile logs-max:10 dir:F:\springboot河南非遗助推平台\.npm-cache\npm8\_logs
+28 verbose logfile F:\springboot河南非遗助推平台\.npm-cache\npm8\_logs\2026-04-17T13_15_55_229Z-debug-0.log
+29 timing npm:load:logFile Completed in 3ms
+30 timing npm:load:timers Completed in 0ms
+31 timing npm:load:configScope Completed in 0ms
+32 timing npm:load Completed in 22ms
+33 timing arborist:ctor Completed in 1ms
+34 silly logfile start cleaning logs, removing 1 files
+35 silly logfile done cleaning log files
+36 timing idealTree:init Completed in 416ms
+37 timing idealTree:userRequests Completed in 3ms
+38 silly idealTree buildDeps
+39 silly fetch manifest jsencrypt@*
+40 timing arborist:ctor Completed in 0ms
+41 http fetch GET 200 https://registry.npmjs.org/jsencrypt 1481ms (cache miss)
+42 silly fetch manifest vue-json-excel@*
+43 http fetch GET 200 https://registry.npmjs.org/vue-json-excel 1161ms (cache miss)
+44 silly placeDep ROOT jsencrypt@3.5.4 OK for: client_home@0.1.0 want: *
+45 silly placeDep ROOT vue-json-excel@0.3.0 OK for: client_home@0.1.0 want: *
+46 silly fetch manifest downloadjs@^1.4.7
+47 http fetch GET 200 https://registry.npmjs.org/downloadjs 297ms (cache miss)
+48 timing idealTree:#root Completed in 2951ms
+49 timing idealTree:node_modules/jsencrypt Completed in 0ms
+50 silly placeDep ROOT downloadjs@1.4.7 OK for: vue-json-excel@0.3.0 want: ^1.4.7
+51 timing idealTree:node_modules/vue-json-excel Completed in 2ms
+52 timing idealTree:node_modules/downloadjs Completed in 0ms
+53 timing idealTree:buildDeps Completed in 2954ms
+54 timing idealTree:fixDepFlags Completed in 10ms
+55 warn EBADENGINE Unsupported engine {
+55 warn EBADENGINE   package: '@achrinza/node-ipc@9.2.2',
+55 warn EBADENGINE   required: { node: '8 || 10 || 12 || 14 || 16 || 17' },
+55 warn EBADENGINE   current: { node: 'v22.22.0', npm: '10.8.2' }
+55 warn EBADENGINE }
+56 timing idealTree Completed in 3397ms
+57 timing reify:loadTrees Completed in 3399ms
+58 timing reify:diffTrees Completed in 30ms
+59 silly reify moves {}
+60 timing reify:retireShallow Completed in 0ms
+61 timing reify:createSparse Completed in 8ms
+62 timing reify:loadBundles Completed in 0ms
+63 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\fsevents
+64 silly reify mark deleted [
+64 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\fsevents'
+64 silly reify ]
+65 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\bindings
+66 silly reify mark deleted [
+66 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\bindings'
+66 silly reify ]
+67 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\file-uri-to-path
+68 silly reify mark deleted [
+68 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\file-uri-to-path'
+68 silly reify ]
+69 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-win32-ia32
+70 silly reify mark deleted [
+70 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-win32-ia32'
+70 silly reify ]
+71 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-win32-arm64
+72 silly reify mark deleted [
+72 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-win32-arm64'
+72 silly reify ]
+73 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-linux-x64-musl
+74 silly reify mark deleted [
+74 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-linux-x64-musl'
+74 silly reify ]
+75 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-linux-x64-glibc
+76 silly reify mark deleted [
+76 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-linux-x64-glibc'
+76 silly reify ]
+77 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-linux-arm64-musl
+78 silly reify mark deleted [
+78 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-linux-arm64-musl'
+78 silly reify ]
+79 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-linux-arm64-glibc
+80 silly reify mark deleted [
+80 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-linux-arm64-glibc'
+80 silly reify ]
+81 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-linux-arm-musl
+82 silly reify mark deleted [
+82 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-linux-arm-musl'
+82 silly reify ]
+83 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-linux-arm-glibc
+84 silly reify mark deleted [
+84 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-linux-arm-glibc'
+84 silly reify ]
+85 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-freebsd-x64
+86 silly reify mark deleted [
+86 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-freebsd-x64'
+86 silly reify ]
+87 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-darwin-x64
+88 silly reify mark deleted [
+88 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-darwin-x64'
+88 silly reify ]
+89 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-darwin-arm64
+90 silly reify mark deleted [
+90 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-darwin-arm64'
+90 silly reify ]
+91 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\@parcel\watcher-android-arm64
+92 silly reify mark deleted [
+92 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\@parcel\\watcher-android-arm64'
+92 silly reify ]
+93 verbose reify failed optional dependency F:\springboot河南非遗助推平台\project\src\main\resources\static\home\node_modules\watchpack\node_modules\fsevents
+94 silly reify mark deleted [
+94 silly reify   'F:\\springboot河南非遗助推平台\\project\\src\\main\\resources\\static\\home\\node_modules\\watchpack\\node_modules\\fsevents'
+94 silly reify ]
+95 timing reifyNode:node_modules/fsevents Completed in 7ms
+96 timing reifyNode:node_modules/@parcel/watcher-win32-ia32 Completed in 7ms
+97 timing reifyNode:node_modules/@parcel/watcher-win32-arm64 Completed in 7ms
+98 timing reifyNode:node_modules/@parcel/watcher-linux-x64-musl Completed in 7ms
+99 timing reifyNode:node_modules/@parcel/watcher-linux-x64-glibc Completed in 7ms
+100 timing reifyNode:node_modules/@parcel/watcher-linux-arm64-musl Completed in 7ms
+101 timing reifyNode:node_modules/@parcel/watcher-linux-arm64-glibc Completed in 7ms
+102 timing reifyNode:node_modules/@parcel/watcher-linux-arm-musl Completed in 7ms
+103 timing reifyNode:node_modules/@parcel/watcher-linux-arm-glibc Completed in 7ms
+104 timing reifyNode:node_modules/@parcel/watcher-freebsd-x64 Completed in 7ms
+105 timing reifyNode:node_modules/@parcel/watcher-darwin-x64 Completed in 7ms
+106 timing reifyNode:node_modules/@parcel/watcher-darwin-arm64 Completed in 7ms
+107 timing reifyNode:node_modules/@parcel/watcher-android-arm64 Completed in 7ms
+108 timing reifyNode:node_modules/watchpack/node_modules/fsevents Completed in 7ms
+109 silly tarball no local data for vue-json-excel@https://registry.npmjs.org/vue-json-excel/-/vue-json-excel-0.3.0.tgz. Extracting by manifest.
+110 silly tarball no local data for downloadjs@https://registry.npmjs.org/downloadjs/-/downloadjs-1.4.7.tgz. Extracting by manifest.
+111 silly tarball no local data for jsencrypt@https://registry.npmjs.org/jsencrypt/-/jsencrypt-3.5.4.tgz. Extracting by manifest.
+112 timing reifyNode:node_modules/bindings Completed in 37ms
+113 timing reifyNode:node_modules/file-uri-to-path Completed in 43ms
+114 http fetch GET 200 https://registry.npmjs.org/vue-json-excel/-/vue-json-excel-0.3.0.tgz 1233ms (cache miss)
+115 timing reifyNode:node_modules/vue-json-excel Completed in 1245ms
+116 http fetch GET 200 https://registry.npmjs.org/downloadjs/-/downloadjs-1.4.7.tgz 1805ms (cache miss)
+117 timing reifyNode:node_modules/downloadjs Completed in 1821ms
+118 http fetch GET 200 https://registry.npmjs.org/jsencrypt/-/jsencrypt-3.5.4.tgz 1979ms (cache miss)
+119 timing reifyNode:node_modules/jsencrypt Completed in 1996ms
+120 timing reify:unpack Completed in 1997ms
+121 timing reify:unretire Completed in 0ms
+122 timing build:queue Completed in 1ms
+123 timing build:deps Completed in 2ms
+124 timing build Completed in 3ms
+125 timing reify:build Completed in 3ms
+126 timing reify:trash Completed in 9ms
+127 timing reify:save Completed in 258ms
+128 timing reify Completed in 5788ms
+129 silly ADD node_modules/downloadjs
+130 silly ADD node_modules/vue-json-excel
+131 silly ADD node_modules/jsencrypt
+132 silly ADD
+133 silly ADD
+134 silly ADD
+135 silly ADD
+136 silly ADD
+137 silly ADD
+138 silly ADD
+139 silly ADD
+140 silly ADD
+141 silly ADD
+142 silly ADD
+143 silly ADD
+144 silly ADD
+145 silly ADD
+146 silly ADD
+147 silly ADD
+148 timing command:install Completed in 5791ms
+149 verbose exit 0
+150 timing npm Completed in 5893ms
+151 info ok

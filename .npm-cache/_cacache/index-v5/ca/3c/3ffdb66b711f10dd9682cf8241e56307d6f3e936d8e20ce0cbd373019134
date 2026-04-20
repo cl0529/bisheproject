@@ -1,0 +1,2 @@
+
+f54d9afb4ec897251040120ac1b5b1f4b05503f0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/stable/download/stable-0.1.8.tgz","integrity":null,"time":1776169504592,"size":"262","metadata":{"time":1776169504592,"url":"https://registry.npm.taobao.org/stable/download/stable-0.1.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 14 Apr 2026 12:25:05 GMT","location":"https://registry.npmmirror.com/stable/download/stable-0.1.8.tgz"},"options":{"compress":true},"status":301}}

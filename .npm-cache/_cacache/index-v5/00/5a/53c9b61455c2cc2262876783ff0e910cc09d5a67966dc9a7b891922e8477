@@ -1,0 +1,2 @@
+
+269fac87429ce7766e3f4adefa43314854378733	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/npm-run-path/download/npm-run-path-4.0.1.tgz","integrity":null,"time":1776169508864,"size":"262","metadata":{"time":1776169508864,"url":"https://registry.npm.taobao.org/npm-run-path/download/npm-run-path-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 14 Apr 2026 12:25:09 GMT","location":"https://registry.npmmirror.com/npm-run-path/download/npm-run-path-4.0.1.tgz"},"options":{"compress":true},"status":301}}

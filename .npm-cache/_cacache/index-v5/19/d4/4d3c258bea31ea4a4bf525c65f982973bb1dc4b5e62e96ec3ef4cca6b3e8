@@ -1,0 +1,2 @@
+
+12aac59c35fbc7238abc4c4dae6247975841942e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/uuid/download/uuid-3.4.0.tgz","integrity":null,"time":1776169504261,"size":"262","metadata":{"time":1776169504260,"url":"https://registry.npm.taobao.org/uuid/download/uuid-3.4.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 14 Apr 2026 12:25:04 GMT","location":"https://registry.npmmirror.com/uuid/download/uuid-3.4.0.tgz"},"options":{"compress":true},"status":301}}

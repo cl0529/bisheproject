@@ -1,0 +1,2 @@
+
+00842dfc49f826dc582b0bd6d95a94120d802bbc	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/combined-stream/download/combined-stream-1.0.8.tgz","integrity":null,"time":1776169506978,"size":"262","metadata":{"time":1776169506978,"url":"https://registry.npm.taobao.org/combined-stream/download/combined-stream-1.0.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 14 Apr 2026 12:25:07 GMT","location":"https://registry.npmmirror.com/combined-stream/download/combined-stream-1.0.8.tgz"},"options":{"compress":true},"status":301}}

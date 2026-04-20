@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.2
+2 info using node@v18.20.8
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:F:\springboot河南非遗助推平台\project\src\main\resources\static\home\.npmrc
+5 silly config load:file:C:\Users\Administrator\.npmrc
+6 silly config load:file:C:\Program Files\nodejs\node_global\etc\npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:F:\springboot河南非遗助推平台\.npm-cache\npm8\_logs\2026-04-17T13_14_03_314Z-
+10 verbose logfile F:\springboot河南非遗助推平台\.npm-cache\npm8\_logs\2026-04-17T13_14_03_314Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose cwd F:\springboot河南非遗助推平台\project\src\main\resources\static\home
+14 verbose os Windows_NT 10.0.26200
+15 verbose node v18.20.8
+16 verbose npm  v10.8.2
+17 verbose exit 1
+18 verbose code 1

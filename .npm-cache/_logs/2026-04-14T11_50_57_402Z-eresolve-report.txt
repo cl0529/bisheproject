@@ -1,0 +1,32 @@
+'Log files:
+F:\springboot河南非遗助推平台\.npm-cache\_logs\2026-04-14T11_50_57_402Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: element-ui@2.15.0
+Found: vue@3.5.32
+node_modules/vue
+  peerOptional vue@"^2 || ^3.0.0-0" from @vue/babel-preset-app@4.5.11
+  node_modules/@vue/babel-preset-app
+    @vue/babel-preset-app@"^4.5.11" from @vue/cli-plugin-babel@4.5.11
+    node_modules/@vue/cli-plugin-babel
+      dev @vue/cli-plugin-babel@"~4.5.0" from the root project
+  peer vue@"3.5.32" from @vue/server-renderer@3.5.32
+  node_modules/@vue/server-renderer
+    @vue/server-renderer@"3.5.32" from vue@3.5.32
+  vue@"^3.2.40" from the root project
+
+Could not resolve dependency:
+peer vue@"^2.5.17" from element-ui@2.15.0
+node_modules/element-ui
+  element-ui@"^2.15.0" from the root project
+
+Conflicting peer dependency: vue@2.7.16
+node_modules/vue
+  peer vue@"^2.5.17" from element-ui@2.15.0
+  node_modules/element-ui
+    element-ui@"^2.15.0" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.

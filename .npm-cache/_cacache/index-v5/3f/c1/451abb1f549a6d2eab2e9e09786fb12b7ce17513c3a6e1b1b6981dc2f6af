@@ -1,0 +1,2 @@
+
+a10c450855ec47414d2fe1f87d610166f7cee40d	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/node-releases/download/node-releases-1.1.71.tgz","integrity":null,"time":1776169505323,"size":"262","metadata":{"time":1776169505323,"url":"https://registry.npm.taobao.org/node-releases/download/node-releases-1.1.71.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 14 Apr 2026 12:25:05 GMT","location":"https://registry.npmmirror.com/node-releases/download/node-releases-1.1.71.tgz"},"options":{"compress":true},"status":301}}

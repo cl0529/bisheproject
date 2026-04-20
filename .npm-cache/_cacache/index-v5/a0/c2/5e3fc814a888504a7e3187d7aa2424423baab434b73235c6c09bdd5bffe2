@@ -1,0 +1,2 @@
+
+413b851b7ac00f0b614cce9d05d85a68065b08b7	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/graceful-fs/download/graceful-fs-4.2.6.tgz","integrity":null,"time":1776169506012,"size":"262","metadata":{"time":1776169506012,"url":"https://registry.npm.taobao.org/graceful-fs/download/graceful-fs-4.2.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 14 Apr 2026 12:25:06 GMT","location":"https://registry.npmmirror.com/graceful-fs/download/graceful-fs-4.2.6.tgz"},"options":{"compress":true},"status":301}}
